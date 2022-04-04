@@ -1,6 +1,6 @@
 ![github](https://user-images.githubusercontent.com/88913545/158157001-31fd6e94-da79-44b6-b471-66e3717f83b9.png)
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 👉F U L L - S T A C K     D E V E L O P E R👈
+ <h1 align="center">👉F U L L - S T A C K     D E V E L O P E R👈</h1>
 ```javascript
 const aboutMe = {
   name: "⭐Lautaro Mansilla⭐",
