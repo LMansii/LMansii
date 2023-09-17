@@ -8,7 +8,7 @@ Me encanta la Programación y las Tecnologías es por eso que dia tras dia apren
 - 💻 Finalizando Bootcamps de SoyHenry
 - 📚 Estudiante de Tecnicatura en Programación Informática
 - 📫 Queres contactarte conmigo?
-    - Email: lautaroemansilla@gmail.com
+    - Email: lautaroemansilla01@gmail.com
     - Linkedin: [https://www.linkedin.com/in/lautaroezequielmansilla/](https://www.linkedin.com/in/lautaroezequielmansilla/)
 
 ## ⭐LENGUAJES Y HERRAMIENTAS
